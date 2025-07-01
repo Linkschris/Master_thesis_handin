@@ -1,0 +1,8282 @@
+[
+  {
+    "window": 0,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 11884.066557802445
+  },
+  {
+    "window": 0,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 11922.65173403742
+  },
+  {
+    "window": 0,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 11961.236910272397
+  },
+  {
+    "window": 0,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 11974.588874013738
+  },
+  {
+    "window": 0,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 12006.826900664395
+  },
+  {
+    "window": 0,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 11884.066557802445
+  },
+  {
+    "window": 0,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 11896.490672845757
+  },
+  {
+    "window": 0,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 11908.914787889065
+  },
+  {
+    "window": 0,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 11921.338902932377
+  },
+  {
+    "window": 0,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 11931.922894972447
+  },
+  {
+    "window": 0,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 11884.066557802445
+  },
+  {
+    "window": 0,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 11870.506785269901
+  },
+  {
+    "window": 0,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 11856.94701273736
+  },
+  {
+    "window": 0,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 11843.387240204816
+  },
+  {
+    "window": 0,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 11858.126059458105
+  },
+  {
+    "window": 0,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 11884.066557802445
+  },
+  {
+    "window": 0,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 11871.264887341757
+  },
+  {
+    "window": 0,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 11858.463216881066
+  },
+  {
+    "window": 0,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 11845.661546420375
+  },
+  {
+    "window": 0,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 11820.058205498995
+  },
+  {
+    "window": 1,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 7675.841320800635
+  },
+  {
+    "window": 1,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 7707.568885963959
+  },
+  {
+    "window": 1,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 7739.296451127282
+  },
+  {
+    "window": 1,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 7771.024016290608
+  },
+  {
+    "window": 1,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7834.479146617253
+  },
+  {
+    "window": 1,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 7675.841320800635
+  },
+  {
+    "window": 1,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 7695.704508705466
+  },
+  {
+    "window": 1,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 7715.567696610296
+  },
+  {
+    "window": 1,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 7735.430884515126
+  },
+  {
+    "window": 1,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7775.157260324785
+  },
+  {
+    "window": 1,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 7675.841320800635
+  },
+  {
+    "window": 1,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 7677.355163352098
+  },
+  {
+    "window": 1,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 7678.869005903562
+  },
+  {
+    "window": 1,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 7680.382848455025
+  },
+  {
+    "window": 1,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 7683.410533557952
+  },
+  {
+    "window": 1,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 7675.841320800635
+  },
+  {
+    "window": 1,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 7659.205106372372
+  },
+  {
+    "window": 1,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 7642.568891944109
+  },
+  {
+    "window": 1,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 7625.932677515846
+  },
+  {
+    "window": 1,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 7592.660248659321
+  },
+  {
+    "window": 2,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 5635.247076897175
+  },
+  {
+    "window": 2,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 5628.358548066041
+  },
+  {
+    "window": 2,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 5621.470019234907
+  },
+  {
+    "window": 2,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 5614.581490403774
+  },
+  {
+    "window": 2,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 5600.804432741506
+  },
+  {
+    "window": 2,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 5635.247076897174
+  },
+  {
+    "window": 2,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 5625.626311412199
+  },
+  {
+    "window": 2,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 5616.005545927224
+  },
+  {
+    "window": 2,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 5606.384780442249
+  },
+  {
+    "window": 2,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 5587.143249472298
+  },
+  {
+    "window": 2,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 5635.247076897174
+  },
+  {
+    "window": 2,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 5618.840631103524
+  },
+  {
+    "window": 2,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 5602.434185309874
+  },
+  {
+    "window": 2,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 5586.027739516223
+  },
+  {
+    "window": 2,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 5552.6577570385025
+  },
+  {
+    "window": 2,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 5635.247076897174
+  },
+  {
+    "window": 2,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 5616.678894292275
+  },
+  {
+    "window": 2,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 5598.110711687375
+  },
+  {
+    "window": 2,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 5579.542529082475
+  },
+  {
+    "window": 2,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 5542.406163872675
+  },
+  {
+    "window": 3,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 6460.606432076896
+  },
+  {
+    "window": 3,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 6581.816646423851
+  },
+  {
+    "window": 3,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 6703.026860770806
+  },
+  {
+    "window": 3,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 6824.23707511776
+  },
+  {
+    "window": 3,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7100.334216770971
+  },
+  {
+    "window": 3,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 6460.606432076896
+  },
+  {
+    "window": 3,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 6587.839441355222
+  },
+  {
+    "window": 3,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 6715.072450633548
+  },
+  {
+    "window": 3,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 6842.305459911876
+  },
+  {
+    "window": 3,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7120.647868470494
+  },
+  {
+    "window": 3,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 6460.606432076896
+  },
+  {
+    "window": 3,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 6550.704057136532
+  },
+  {
+    "window": 3,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 6640.80168219617
+  },
+  {
+    "window": 3,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 6730.899307255806
+  },
+  {
+    "window": 3,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 6911.09455737508
+  },
+  {
+    "window": 3,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 6460.606432076896
+  },
+  {
+    "window": 3,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 6550.648116708977
+  },
+  {
+    "window": 3,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 6640.689801341058
+  },
+  {
+    "window": 3,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 6730.7314859731405
+  },
+  {
+    "window": 3,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 6910.814855237302
+  },
+  {
+    "window": 4,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 7263.856292734654
+  },
+  {
+    "window": 4,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 7405.529769737711
+  },
+  {
+    "window": 4,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 7547.203246740768
+  },
+  {
+    "window": 4,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 7688.876723743825
+  },
+  {
+    "window": 4,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7960.654737919931
+  },
+  {
+    "window": 4,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 7263.856292734654
+  },
+  {
+    "window": 4,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 7371.442240946151
+  },
+  {
+    "window": 4,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 7479.028189157652
+  },
+  {
+    "window": 4,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 7586.614137369152
+  },
+  {
+    "window": 4,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7801.786033792151
+  },
+  {
+    "window": 4,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 7263.856292734654
+  },
+  {
+    "window": 4,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 7374.34438412979
+  },
+  {
+    "window": 4,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 7484.832475524925
+  },
+  {
+    "window": 4,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 7595.3205669200615
+  },
+  {
+    "window": 4,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 7816.296749710333
+  },
+  {
+    "window": 4,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 7263.856292734654
+  },
+  {
+    "window": 4,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 7374.478949864623
+  },
+  {
+    "window": 4,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 7485.101606994594
+  },
+  {
+    "window": 4,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 7595.724264124561
+  },
+  {
+    "window": 4,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 7816.969578384498
+  },
+  {
+    "window": 5,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 10020.587380020193
+  },
+  {
+    "window": 5,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 10060.503896766966
+  },
+  {
+    "window": 5,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 10100.42041351374
+  },
+  {
+    "window": 5,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 10138.155479806504
+  },
+  {
+    "window": 5,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 10204.914299547396
+  },
+  {
+    "window": 5,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 10020.587380020193
+  },
+  {
+    "window": 5,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 10049.821007807419
+  },
+  {
+    "window": 5,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 10079.054635594643
+  },
+  {
+    "window": 5,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 10108.28826338187
+  },
+  {
+    "window": 5,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 10166.75551895632
+  },
+  {
+    "window": 5,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 10020.587380020193
+  },
+  {
+    "window": 5,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 10040.311945037989
+  },
+  {
+    "window": 5,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 10060.036510055788
+  },
+  {
+    "window": 5,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 10079.761075073584
+  },
+  {
+    "window": 5,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 10119.210205109179
+  },
+  {
+    "window": 5,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 10020.587380020193
+  },
+  {
+    "window": 5,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 10026.251846244859
+  },
+  {
+    "window": 5,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 10031.916312469522
+  },
+  {
+    "window": 5,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 10037.580778694188
+  },
+  {
+    "window": 5,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 10048.909711143519
+  },
+  {
+    "window": 6,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 12557.147047120605
+  },
+  {
+    "window": 6,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 12582.317916071708
+  },
+  {
+    "window": 6,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 12632.436865867701
+  },
+  {
+    "window": 6,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 12635.962551458768
+  },
+  {
+    "window": 6,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 12697.460979735006
+  },
+  {
+    "window": 6,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 12557.147047120605
+  },
+  {
+    "window": 6,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 12574.081264165796
+  },
+  {
+    "window": 6,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 12591.015481210983
+  },
+  {
+    "window": 6,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 12607.949698256176
+  },
+  {
+    "window": 6,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 12661.258141164422
+  },
+  {
+    "window": 6,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 12557.147047120605
+  },
+  {
+    "window": 6,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 12574.169368882518
+  },
+  {
+    "window": 6,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 12591.191690644433
+  },
+  {
+    "window": 6,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 12608.214012406348
+  },
+  {
+    "window": 6,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 12640.302026748072
+  },
+  {
+    "window": 6,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 12557.147047120605
+  },
+  {
+    "window": 6,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 12570.8684185811
+  },
+  {
+    "window": 6,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 12584.589790041595
+  },
+  {
+    "window": 6,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 12598.311161502088
+  },
+  {
+    "window": 6,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 12625.753904423074
+  },
+  {
+    "window": 7,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 10447.337408397594
+  },
+  {
+    "window": 7,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 10546.04105821704
+  },
+  {
+    "window": 7,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 10650.957069971077
+  },
+  {
+    "window": 7,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 10760.190092216748
+  },
+  {
+    "window": 7,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 10907.421038460663
+  },
+  {
+    "window": 7,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 10447.337408397594
+  },
+  {
+    "window": 7,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 10539.748399035689
+  },
+  {
+    "window": 7,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 10631.20292108495
+  },
+  {
+    "window": 7,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 10723.832128189877
+  },
+  {
+    "window": 7,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 10881.637364512997
+  },
+  {
+    "window": 7,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 10447.337408397594
+  },
+  {
+    "window": 7,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 10540.843327246144
+  },
+  {
+    "window": 7,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 10630.604916009606
+  },
+  {
+    "window": 7,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 10720.536272918462
+  },
+  {
+    "window": 7,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 10898.976747270563
+  },
+  {
+    "window": 7,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 10447.337408397594
+  },
+  {
+    "window": 7,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 10539.110151455388
+  },
+  {
+    "window": 7,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 10630.882894513183
+  },
+  {
+    "window": 7,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 10722.655637570977
+  },
+  {
+    "window": 7,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 10903.516511073389
+  },
+  {
+    "window": 8,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 6428.561250977287
+  },
+  {
+    "window": 8,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 6589.260952468577
+  },
+  {
+    "window": 8,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 6761.093575436136
+  },
+  {
+    "window": 8,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 6921.872972694935
+  },
+  {
+    "window": 8,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7198.0846667892265
+  },
+  {
+    "window": 8,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 6428.561250977287
+  },
+  {
+    "window": 8,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 6590.211995687663
+  },
+  {
+    "window": 8,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 6753.0723391479605
+  },
+  {
+    "window": 8,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 6909.856390342263
+  },
+  {
+    "window": 8,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7195.781253589905
+  },
+  {
+    "window": 8,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 6428.561250977287
+  },
+  {
+    "window": 8,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 6583.938513019944
+  },
+  {
+    "window": 8,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 6741.707509617872
+  },
+  {
+    "window": 8,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 6902.721780826114
+  },
+  {
+    "window": 8,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 7212.828240504125
+  },
+  {
+    "window": 8,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 6428.561250977287
+  },
+  {
+    "window": 8,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 6586.706135306728
+  },
+  {
+    "window": 8,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 6744.851019636171
+  },
+  {
+    "window": 8,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 6904.913080802213
+  },
+  {
+    "window": 8,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 7235.3913973508215
+  },
+  {
+    "window": 9,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 5438.658340849315
+  },
+  {
+    "window": 9,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 5514.7919006420725
+  },
+  {
+    "window": 9,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 5589.652877472489
+  },
+  {
+    "window": 9,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 5657.826355594393
+  },
+  {
+    "window": 9,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 5765.498001235865
+  },
+  {
+    "window": 9,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 5438.658340849315
+  },
+  {
+    "window": 9,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 5509.859389062922
+  },
+  {
+    "window": 9,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 5581.060437276527
+  },
+  {
+    "window": 9,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 5652.058928590717
+  },
+  {
+    "window": 9,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 5773.051062077899
+  },
+  {
+    "window": 9,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 5438.658340849315
+  },
+  {
+    "window": 9,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 5510.726805224103
+  },
+  {
+    "window": 9,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 5582.7952695988915
+  },
+  {
+    "window": 9,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 5654.863733973679
+  },
+  {
+    "window": 9,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 5793.841060821692
+  },
+  {
+    "window": 9,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 5438.658340849315
+  },
+  {
+    "window": 9,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 5510.753079363305
+  },
+  {
+    "window": 9,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 5582.847817877293
+  },
+  {
+    "window": 9,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 5654.942556391281
+  },
+  {
+    "window": 9,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 5799.132033419257
+  },
+  {
+    "window": 10,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 4197.51243770689
+  },
+  {
+    "window": 10,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 4182.837165165296
+  },
+  {
+    "window": 10,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 4168.936944171626
+  },
+  {
+    "window": 10,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 4156.086853755896
+  },
+  {
+    "window": 10,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 4141.9068740422435
+  },
+  {
+    "window": 10,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 4197.51243770689
+  },
+  {
+    "window": 10,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 4182.087600568498
+  },
+  {
+    "window": 10,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 4162.397257659226
+  },
+  {
+    "window": 10,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 4158.911197960228
+  },
+  {
+    "window": 10,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 4147.029199670116
+  },
+  {
+    "window": 10,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 4197.51243770689
+  },
+  {
+    "window": 10,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 4184.0995274987445
+  },
+  {
+    "window": 10,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 4170.778706131238
+  },
+  {
+    "window": 10,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 4154.3259518753675
+  },
+  {
+    "window": 10,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 4127.851194116427
+  },
+  {
+    "window": 10,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 4197.51243770689
+  },
+  {
+    "window": 10,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 4184.390905799037
+  },
+  {
+    "window": 10,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 4171.269373891185
+  },
+  {
+    "window": 10,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 4157.135425313662
+  },
+  {
+    "window": 10,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 4132.58319385972
+  },
+  {
+    "window": 11,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 4072.9424998595296
+  },
+  {
+    "window": 11,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 4011.9387218702614
+  },
+  {
+    "window": 11,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 3954.6589881440277
+  },
+  {
+    "window": 11,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 3881.0000257702523
+  },
+  {
+    "window": 11,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 3782.463374611725
+  },
+  {
+    "window": 11,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 4072.94249985953
+  },
+  {
+    "window": 11,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 4017.287528862566
+  },
+  {
+    "window": 11,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 3964.7179234503524
+  },
+  {
+    "window": 11,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 3933.5634103147886
+  },
+  {
+    "window": 11,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 3822.118281908351
+  },
+  {
+    "window": 11,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 4072.94249985953
+  },
+  {
+    "window": 11,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 4023.649129038434
+  },
+  {
+    "window": 11,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 3973.722738136443
+  },
+  {
+    "window": 11,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 3920.2690577721605
+  },
+  {
+    "window": 11,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 3823.8201832714794
+  },
+  {
+    "window": 11,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 4072.94249985953
+  },
+  {
+    "window": 11,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 4022.18392111941
+  },
+  {
+    "window": 11,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 3971.4253423792884
+  },
+  {
+    "window": 11,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 3919.37108354183
+  },
+  {
+    "window": 11,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3822.2397540699158
+  },
+  {
+    "window": 12,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 9192.7663420043
+  },
+  {
+    "window": 12,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 9150.940032232826
+  },
+  {
+    "window": 12,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 9104.882811459333
+  },
+  {
+    "window": 12,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 9063.97970755049
+  },
+  {
+    "window": 12,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 8968.664872752383
+  },
+  {
+    "window": 12,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 9192.7663420043
+  },
+  {
+    "window": 12,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 9153.873943248229
+  },
+  {
+    "window": 12,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 9108.749247940013
+  },
+  {
+    "window": 12,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 9064.47187314737
+  },
+  {
+    "window": 12,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 8982.008822174601
+  },
+  {
+    "window": 12,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 9192.7663420043
+  },
+  {
+    "window": 12,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 9151.954483828173
+  },
+  {
+    "window": 12,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 9112.188763284741
+  },
+  {
+    "window": 12,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 9066.355968359312
+  },
+  {
+    "window": 12,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8983.494849552906
+  },
+  {
+    "window": 12,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 9192.7663420043
+  },
+  {
+    "window": 12,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 9149.399840623446
+  },
+  {
+    "window": 12,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 9106.03229866657
+  },
+  {
+    "window": 12,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 9060.221964516651
+  },
+  {
+    "window": 12,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8977.313311001379
+  },
+  {
+    "window": 13,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 10294.319232354126
+  },
+  {
+    "window": 13,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 10346.797539540688
+  },
+  {
+    "window": 13,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 10402.357111994384
+  },
+  {
+    "window": 13,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 10457.986374563287
+  },
+  {
+    "window": 13,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 10562.695934847969
+  },
+  {
+    "window": 13,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 10294.319232354126
+  },
+  {
+    "window": 13,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 10352.612099894744
+  },
+  {
+    "window": 13,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 10403.004129496156
+  },
+  {
+    "window": 13,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 10470.44863356818
+  },
+  {
+    "window": 13,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 10595.186657943153
+  },
+  {
+    "window": 13,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 10294.319232354126
+  },
+  {
+    "window": 13,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 10352.763320376831
+  },
+  {
+    "window": 13,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 10411.207408399534
+  },
+  {
+    "window": 13,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 10469.73343347724
+  },
+  {
+    "window": 13,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 10597.711835121569
+  },
+  {
+    "window": 13,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 10294.319232354126
+  },
+  {
+    "window": 13,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 10353.620963527184
+  },
+  {
+    "window": 13,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 10412.92269470024
+  },
+  {
+    "window": 13,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 10470.788345218818
+  },
+  {
+    "window": 13,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 10593.207615053354
+  },
+  {
+    "window": 14,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 6685.14360690978
+  },
+  {
+    "window": 14,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 6540.505023467582
+  },
+  {
+    "window": 14,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 6398.898860860429
+  },
+  {
+    "window": 14,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 6244.8296682725
+  },
+  {
+    "window": 14,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 5852.077697768472
+  },
+  {
+    "window": 14,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 6685.14360690978
+  },
+  {
+    "window": 14,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 6548.872680460063
+  },
+  {
+    "window": 14,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 6412.601754010344
+  },
+  {
+    "window": 14,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 6266.538355142156
+  },
+  {
+    "window": 14,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 5919.353188001719
+  },
+  {
+    "window": 14,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 6685.14360690978
+  },
+  {
+    "window": 14,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 6539.301447970462
+  },
+  {
+    "window": 14,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 6393.3571263953945
+  },
+  {
+    "window": 14,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 6252.756983587044
+  },
+  {
+    "window": 14,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 5938.132343588541
+  },
+  {
+    "window": 14,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 6685.14360690978
+  },
+  {
+    "window": 14,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 6544.845952198131
+  },
+  {
+    "window": 14,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 6404.548297486483
+  },
+  {
+    "window": 14,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 6264.250642774836
+  },
+  {
+    "window": 14,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 5947.5296970545005
+  },
+  {
+    "window": 15,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8952.882852609
+  },
+  {
+    "window": 15,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8810.938172290907
+  },
+  {
+    "window": 15,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8573.757821468149
+  },
+  {
+    "window": 15,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 8372.350718068843
+  },
+  {
+    "window": 15,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7932.933127677809
+  },
+  {
+    "window": 15,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8952.882852609
+  },
+  {
+    "window": 15,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8788.828409028301
+  },
+  {
+    "window": 15,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8544.900771571705
+  },
+  {
+    "window": 15,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 8332.555222962872
+  },
+  {
+    "window": 15,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7902.524451243808
+  },
+  {
+    "window": 15,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8952.882852609
+  },
+  {
+    "window": 15,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8752.260525798509
+  },
+  {
+    "window": 15,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8551.638198988017
+  },
+  {
+    "window": 15,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8325.825465214282
+  },
+  {
+    "window": 15,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 7843.491328566928
+  },
+  {
+    "window": 15,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8952.882852609
+  },
+  {
+    "window": 15,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8713.514793832725
+  },
+  {
+    "window": 15,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8474.146735056449
+  },
+  {
+    "window": 15,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8234.778676280173
+  },
+  {
+    "window": 15,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 7749.7722793912335
+  },
+  {
+    "window": 16,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8199.456134134938
+  },
+  {
+    "window": 16,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8233.915736704656
+  },
+  {
+    "window": 16,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8244.245043905212
+  },
+  {
+    "window": 16,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 8244.59096702851
+  },
+  {
+    "window": 16,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 8283.622199824527
+  },
+  {
+    "window": 16,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8199.456134134938
+  },
+  {
+    "window": 16,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8233.213923634026
+  },
+  {
+    "window": 16,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8252.855140362983
+  },
+  {
+    "window": 16,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 8263.007950345213
+  },
+  {
+    "window": 16,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 8240.107271578956
+  },
+  {
+    "window": 16,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8199.456134134938
+  },
+  {
+    "window": 16,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8183.222917751037
+  },
+  {
+    "window": 16,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8162.660913413731
+  },
+  {
+    "window": 16,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8131.399769299679
+  },
+  {
+    "window": 16,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8083.075808213412
+  },
+  {
+    "window": 16,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8199.456134134938
+  },
+  {
+    "window": 16,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8166.066217248959
+  },
+  {
+    "window": 16,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8132.67630036298
+  },
+  {
+    "window": 16,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8099.286383477
+  },
+  {
+    "window": 16,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8032.506549705041
+  },
+  {
+    "window": 17,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 3557.0878657588933
+  },
+  {
+    "window": 17,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 3555.4979170917304
+  },
+  {
+    "window": 17,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 3564.5185780904717
+  },
+  {
+    "window": 17,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 3586.730254538659
+  },
+  {
+    "window": 17,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 3620.971419264266
+  },
+  {
+    "window": 17,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 3557.0878657588933
+  },
+  {
+    "window": 17,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 3553.6042988937666
+  },
+  {
+    "window": 17,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 3563.350087340601
+  },
+  {
+    "window": 17,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 3579.5936569251376
+  },
+  {
+    "window": 17,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 3620.8333609877564
+  },
+  {
+    "window": 17,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 3557.0878657588933
+  },
+  {
+    "window": 17,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 3556.9007321544113
+  },
+  {
+    "window": 17,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 3560.91275333453
+  },
+  {
+    "window": 17,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 3572.551435031017
+  },
+  {
+    "window": 17,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 3609.850135455606
+  },
+  {
+    "window": 17,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 3557.0878657588933
+  },
+  {
+    "window": 17,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 3561.6431787852325
+  },
+  {
+    "window": 17,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 3566.8753111446695
+  },
+  {
+    "window": 17,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 3581.563466543187
+  },
+  {
+    "window": 17,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3616.069943342739
+  },
+  {
+    "window": 18,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 3597.598935502632
+  },
+  {
+    "window": 18,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 3604.620480042552
+  },
+  {
+    "window": 18,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 3615.5218492666972
+  },
+  {
+    "window": 18,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 3632.6126979089486
+  },
+  {
+    "window": 18,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 3640.50636281813
+  },
+  {
+    "window": 18,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 3597.598935502632
+  },
+  {
+    "window": 18,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 3604.12281100403
+  },
+  {
+    "window": 18,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 3617.4542827018045
+  },
+  {
+    "window": 18,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 3626.33297022117
+  },
+  {
+    "window": 18,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 3626.6482749197803
+  },
+  {
+    "window": 18,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 3597.598935502632
+  },
+  {
+    "window": 18,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 3597.961363362667
+  },
+  {
+    "window": 18,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 3598.59079809587
+  },
+  {
+    "window": 18,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 3607.3805939416266
+  },
+  {
+    "window": 18,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 3609.969374168257
+  },
+  {
+    "window": 18,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 3597.598935502632
+  },
+  {
+    "window": 18,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 3601.532648512229
+  },
+  {
+    "window": 18,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 3606.587087047872
+  },
+  {
+    "window": 18,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 3597.915259992552
+  },
+  {
+    "window": 18,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3611.8525026933944
+  },
+  {
+    "window": 19,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 3868.6653041396007
+  },
+  {
+    "window": 19,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 3873.8503574187794
+  },
+  {
+    "window": 19,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 3871.46819929496
+  },
+  {
+    "window": 19,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 3860.5560172384403
+  },
+  {
+    "window": 19,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 3851.3583017270844
+  },
+  {
+    "window": 19,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 3868.6653041396007
+  },
+  {
+    "window": 19,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 3876.4561249689777
+  },
+  {
+    "window": 19,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 3873.5003923984946
+  },
+  {
+    "window": 19,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 3872.866585776913
+  },
+  {
+    "window": 19,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 3860.258636336388
+  },
+  {
+    "window": 19,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 3868.6653041396007
+  },
+  {
+    "window": 19,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 3879.3592407413294
+  },
+  {
+    "window": 19,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 3879.584124252537
+  },
+  {
+    "window": 19,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 3883.3902288333234
+  },
+  {
+    "window": 19,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 3903.796281316972
+  },
+  {
+    "window": 19,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 3868.6653041396007
+  },
+  {
+    "window": 19,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 3871.8564717588997
+  },
+  {
+    "window": 19,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 3875.1950386168264
+  },
+  {
+    "window": 19,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 3878.8741137428824
+  },
+  {
+    "window": 19,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3902.959021726204
+  },
+  {
+    "window": 20,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 2115.132200031003
+  },
+  {
+    "window": 20,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 2118.8766490964235
+  },
+  {
+    "window": 20,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 2120.5360588557414
+  },
+  {
+    "window": 20,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 2127.445724210672
+  },
+  {
+    "window": 20,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 2130.502221574052
+  },
+  {
+    "window": 20,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 2115.132200031003
+  },
+  {
+    "window": 20,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 2119.4084863246107
+  },
+  {
+    "window": 20,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 2117.292035599423
+  },
+  {
+    "window": 20,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 2114.0525432415307
+  },
+  {
+    "window": 20,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 2121.4965998229345
+  },
+  {
+    "window": 20,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 2115.132200031003
+  },
+  {
+    "window": 20,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 2113.8386071294235
+  },
+  {
+    "window": 20,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 2108.8862465710476
+  },
+  {
+    "window": 20,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 2104.6527020185526
+  },
+  {
+    "window": 20,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 2123.9411816754214
+  },
+  {
+    "window": 20,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 2115.132200031003
+  },
+  {
+    "window": 20,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 2112.68506365726
+  },
+  {
+    "window": 20,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 2107.9718508241504
+  },
+  {
+    "window": 20,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 2103.104493703677
+  },
+  {
+    "window": 20,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 2135.554327359669
+  },
+  {
+    "window": 21,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 2270.3762293034506
+  },
+  {
+    "window": 21,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 2259.122551410867
+  },
+  {
+    "window": 21,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 2266.677040263112
+  },
+  {
+    "window": 21,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 2245.4177183370357
+  },
+  {
+    "window": 21,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 2247.148364872999
+  },
+  {
+    "window": 21,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 2270.3762293034506
+  },
+  {
+    "window": 21,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 2259.136922300349
+  },
+  {
+    "window": 21,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 2259.923382856654
+  },
+  {
+    "window": 21,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 2253.178873812937
+  },
+  {
+    "window": 21,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 2244.462489987231
+  },
+  {
+    "window": 21,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 2270.3762293034506
+  },
+  {
+    "window": 21,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 2254.08656880658
+  },
+  {
+    "window": 21,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 2251.5219458559973
+  },
+  {
+    "window": 21,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 2251.0068312877816
+  },
+  {
+    "window": 21,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 2260.8306276524672
+  },
+  {
+    "window": 21,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 2270.3762293034506
+  },
+  {
+    "window": 21,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 2253.696179164215
+  },
+  {
+    "window": 21,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 2248.5917352740894
+  },
+  {
+    "window": 21,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 2249.9195788690377
+  },
+  {
+    "window": 21,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 2271.8973072618874
+  },
+  {
+    "window": 22,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 5062.2962341465145
+  },
+  {
+    "window": 22,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 5071.629537620786
+  },
+  {
+    "window": 22,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 5086.797233992986
+  },
+  {
+    "window": 22,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 5085.7990228986355
+  },
+  {
+    "window": 22,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 5099.297934656646
+  },
+  {
+    "window": 22,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 5062.2962341465145
+  },
+  {
+    "window": 22,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 5071.668963124905
+  },
+  {
+    "window": 22,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 5083.749675436158
+  },
+  {
+    "window": 22,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 5083.877452687563
+  },
+  {
+    "window": 22,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 5094.238997460955
+  },
+  {
+    "window": 22,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 5062.2962341465145
+  },
+  {
+    "window": 22,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 5059.766217438133
+  },
+  {
+    "window": 22,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 5071.085743006737
+  },
+  {
+    "window": 22,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 5067.891584802088
+  },
+  {
+    "window": 22,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 5075.53653229292
+  },
+  {
+    "window": 22,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 5062.2962341465145
+  },
+  {
+    "window": 22,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 5051.160666468989
+  },
+  {
+    "window": 22,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 5055.551221393084
+  },
+  {
+    "window": 22,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 5065.584870228226
+  },
+  {
+    "window": 22,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 5056.650125114551
+  },
+  {
+    "window": 23,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 13032.838329233127
+  },
+  {
+    "window": 23,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 12975.448443230855
+  },
+  {
+    "window": 23,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 12926.052643856372
+  },
+  {
+    "window": 23,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 12892.872841241357
+  },
+  {
+    "window": 23,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 12835.1244412663
+  },
+  {
+    "window": 23,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 13032.838329233127
+  },
+  {
+    "window": 23,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 12970.428516156626
+  },
+  {
+    "window": 23,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 12915.317011740137
+  },
+  {
+    "window": 23,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 12887.165233387419
+  },
+  {
+    "window": 23,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 12811.11824302594
+  },
+  {
+    "window": 23,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 13032.838329233127
+  },
+  {
+    "window": 23,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 12968.686683604217
+  },
+  {
+    "window": 23,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 12907.19320208799
+  },
+  {
+    "window": 23,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 12833.898291798094
+  },
+  {
+    "window": 23,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 12701.915784872463
+  },
+  {
+    "window": 23,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 13032.838329233127
+  },
+  {
+    "window": 23,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 12958.406350927311
+  },
+  {
+    "window": 23,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 12886.312438385528
+  },
+  {
+    "window": 23,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 12811.92362655791
+  },
+  {
+    "window": 23,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 12646.826147158918
+  },
+  {
+    "window": 24,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 17252.466265634885
+  },
+  {
+    "window": 24,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 17250.06190925445
+  },
+  {
+    "window": 24,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 17264.20489211126
+  },
+  {
+    "window": 24,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 17290.51179985
+  },
+  {
+    "window": 24,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 17346.063799446612
+  },
+  {
+    "window": 24,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 17252.466265634885
+  },
+  {
+    "window": 24,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 17249.708431894887
+  },
+  {
+    "window": 24,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 17259.233636790603
+  },
+  {
+    "window": 24,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 17282.174894937765
+  },
+  {
+    "window": 24,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 17336.48742645392
+  },
+  {
+    "window": 24,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 17252.466265634885
+  },
+  {
+    "window": 24,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 17251.387993027227
+  },
+  {
+    "window": 24,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 17257.707633332873
+  },
+  {
+    "window": 24,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 17281.737422315957
+  },
+  {
+    "window": 24,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 17352.80080734952
+  },
+  {
+    "window": 24,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 17252.466265634885
+  },
+  {
+    "window": 24,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 17258.42256337514
+  },
+  {
+    "window": 24,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 17267.421574615677
+  },
+  {
+    "window": 24,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 17275.88111677756
+  },
+  {
+    "window": 24,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 17284.17885848836
+  },
+  {
+    "window": 25,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 15882.446259783876
+  },
+  {
+    "window": 25,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 15922.045242223981
+  },
+  {
+    "window": 25,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 15966.18830013731
+  },
+  {
+    "window": 25,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 16012.694104446418
+  },
+  {
+    "window": 25,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 16138.34696161851
+  },
+  {
+    "window": 25,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 15882.446259783876
+  },
+  {
+    "window": 25,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 15923.735969710004
+  },
+  {
+    "window": 25,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 15965.508380049025
+  },
+  {
+    "window": 25,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 16010.250246908767
+  },
+  {
+    "window": 25,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 16135.454160001991
+  },
+  {
+    "window": 25,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 15882.446259783876
+  },
+  {
+    "window": 25,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 15925.918311717292
+  },
+  {
+    "window": 25,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 15972.988750815794
+  },
+  {
+    "window": 25,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 16027.974213373387
+  },
+  {
+    "window": 25,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 16126.676672116428
+  },
+  {
+    "window": 25,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 15882.446259783876
+  },
+  {
+    "window": 25,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 15887.148497471851
+  },
+  {
+    "window": 25,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 15891.850735159827
+  },
+  {
+    "window": 25,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 15896.552972847803
+  },
+  {
+    "window": 25,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 15900.851496416666
+  },
+  {
+    "window": 26,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 15601.02391349573
+  },
+  {
+    "window": 26,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 15592.775937628805
+  },
+  {
+    "window": 26,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 15580.4723368877
+  },
+  {
+    "window": 26,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 15598.814005252103
+  },
+  {
+    "window": 26,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 15624.7795066947
+  },
+  {
+    "window": 26,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 15601.02391349573
+  },
+  {
+    "window": 26,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 15591.713254505612
+  },
+  {
+    "window": 26,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 15590.443270185726
+  },
+  {
+    "window": 26,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 15583.812219302205
+  },
+  {
+    "window": 26,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 15588.522549490524
+  },
+  {
+    "window": 26,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 15601.02391349573
+  },
+  {
+    "window": 26,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 15592.632436068905
+  },
+  {
+    "window": 26,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 15587.245211608673
+  },
+  {
+    "window": 26,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 15578.204959773051
+  },
+  {
+    "window": 26,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 15524.025402013674
+  },
+  {
+    "window": 26,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 15601.02391349573
+  },
+  {
+    "window": 26,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 15579.493768066892
+  },
+  {
+    "window": 26,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 15534.132230417592
+  },
+  {
+    "window": 26,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 15408.794109610873
+  },
+  {
+    "window": 26,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 15201.177498204765
+  },
+  {
+    "window": 27,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 12503.355712496477
+  },
+  {
+    "window": 27,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 12476.171329491755
+  },
+  {
+    "window": 27,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 12441.45343504805
+  },
+  {
+    "window": 27,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 12431.047898823428
+  },
+  {
+    "window": 27,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 12421.993857243287
+  },
+  {
+    "window": 27,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 12503.355712496477
+  },
+  {
+    "window": 27,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 12479.762868239279
+  },
+  {
+    "window": 27,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 12454.753991325888
+  },
+  {
+    "window": 27,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 12447.40536168766
+  },
+  {
+    "window": 27,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 12451.602160810975
+  },
+  {
+    "window": 27,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 12503.355712496477
+  },
+  {
+    "window": 27,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 12479.684231381778
+  },
+  {
+    "window": 27,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 12451.214266184767
+  },
+  {
+    "window": 27,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 12438.363010722314
+  },
+  {
+    "window": 27,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 12427.972394439726
+  },
+  {
+    "window": 27,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 12503.355712496477
+  },
+  {
+    "window": 27,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 12483.017002460936
+  },
+  {
+    "window": 27,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 12441.02700927051
+  },
+  {
+    "window": 27,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 12400.245362461577
+  },
+  {
+    "window": 27,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 12250.677967921732
+  },
+  {
+    "window": 28,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 9124.94785912102
+  },
+  {
+    "window": 28,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 9146.197856287694
+  },
+  {
+    "window": 28,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 9171.404159887312
+  },
+  {
+    "window": 28,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 9181.973493490757
+  },
+  {
+    "window": 28,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 9316.201658171243
+  },
+  {
+    "window": 28,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 9124.94785912102
+  },
+  {
+    "window": 28,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 9152.556624153305
+  },
+  {
+    "window": 28,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 9188.596063541348
+  },
+  {
+    "window": 28,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 9232.143592640225
+  },
+  {
+    "window": 28,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 9336.407049576912
+  },
+  {
+    "window": 28,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 9124.94785912102
+  },
+  {
+    "window": 28,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 9157.898005661413
+  },
+  {
+    "window": 28,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 9191.395170245163
+  },
+  {
+    "window": 28,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 9254.396090989982
+  },
+  {
+    "window": 28,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 9342.481745151426
+  },
+  {
+    "window": 28,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 9124.94785912102
+  },
+  {
+    "window": 28,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 9200.247724976678
+  },
+  {
+    "window": 28,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 9290.177226512547
+  },
+  {
+    "window": 28,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 9373.489515050082
+  },
+  {
+    "window": 28,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 9554.929249843062
+  },
+  {
+    "window": 29,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 7779.193123707437
+  },
+  {
+    "window": 29,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 7810.301505607687
+  },
+  {
+    "window": 29,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 7836.615081189615
+  },
+  {
+    "window": 29,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 7877.081931004282
+  },
+  {
+    "window": 29,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7918.106167605247
+  },
+  {
+    "window": 29,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 7779.193123707437
+  },
+  {
+    "window": 29,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 7815.280687836297
+  },
+  {
+    "window": 29,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 7846.210380263043
+  },
+  {
+    "window": 29,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 7882.850103538059
+  },
+  {
+    "window": 29,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7972.76442542214
+  },
+  {
+    "window": 29,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 7779.193123707437
+  },
+  {
+    "window": 29,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 7845.424745152448
+  },
+  {
+    "window": 29,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 7914.93120909855
+  },
+  {
+    "window": 29,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 7989.082283479601
+  },
+  {
+    "window": 29,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8112.132854234225
+  },
+  {
+    "window": 29,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 7779.193123707437
+  },
+  {
+    "window": 29,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 7889.936131299423
+  },
+  {
+    "window": 29,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 7992.6628193768265
+  },
+  {
+    "window": 29,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8080.5053286874045
+  },
+  {
+    "window": 29,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8171.82108376739
+  },
+  {
+    "window": 30,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 3590.9255397974557
+  },
+  {
+    "window": 30,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 3666.449548689663
+  },
+  {
+    "window": 30,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 3750.561616732144
+  },
+  {
+    "window": 30,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 3843.2689775813014
+  },
+  {
+    "window": 30,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 4029.0096820739245
+  },
+  {
+    "window": 30,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 3590.9255397974557
+  },
+  {
+    "window": 30,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 3671.675856215345
+  },
+  {
+    "window": 30,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 3754.70798456297
+  },
+  {
+    "window": 30,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 3847.7185185353
+  },
+  {
+    "window": 30,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 4035.8290526026417
+  },
+  {
+    "window": 30,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 3590.9255397974557
+  },
+  {
+    "window": 30,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 3678.936827613272
+  },
+  {
+    "window": 30,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 3771.616851868409
+  },
+  {
+    "window": 30,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 3868.241966095591
+  },
+  {
+    "window": 30,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 4061.720909251643
+  },
+  {
+    "window": 30,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 3590.9255397974557
+  },
+  {
+    "window": 30,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 3689.9431542129005
+  },
+  {
+    "window": 30,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 3791.964472766994
+  },
+  {
+    "window": 30,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 3905.7805394772595
+  },
+  {
+    "window": 30,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 4125.198622158085
+  },
+  {
+    "window": 31,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 530.7553460899435
+  },
+  {
+    "window": 31,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 632.0994443452305
+  },
+  {
+    "window": 31,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 737.6300166068802
+  },
+  {
+    "window": 31,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 843.5390426201407
+  },
+  {
+    "window": 31,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 1048.626555942317
+  },
+  {
+    "window": 31,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 530.7553460899435
+  },
+  {
+    "window": 31,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 632.2235685557336
+  },
+  {
+    "window": 31,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 735.203169776817
+  },
+  {
+    "window": 31,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 843.1883425052108
+  },
+  {
+    "window": 31,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 1038.2083637593855
+  },
+  {
+    "window": 31,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 530.7553460899435
+  },
+  {
+    "window": 31,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 664.801852304761
+  },
+  {
+    "window": 31,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 798.8483585195785
+  },
+  {
+    "window": 31,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 954.378515739154
+  },
+  {
+    "window": 31,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 1272.9881852861229
+  },
+  {
+    "window": 31,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 530.7553460899435
+  },
+  {
+    "window": 31,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 689.81696305689
+  },
+  {
+    "window": 31,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 848.8785800238369
+  },
+  {
+    "window": 31,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 1007.9401969907835
+  },
+  {
+    "window": 31,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 1322.110110236497
+  },
+  {
+    "window": 32,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 2518.8701151158148
+  },
+  {
+    "window": 32,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 2616.4546345381486
+  },
+  {
+    "window": 32,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 2704.5559399311614
+  },
+  {
+    "window": 32,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 2791.533160052254
+  },
+  {
+    "window": 32,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 2850.5947524548114
+  },
+  {
+    "window": 32,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 2518.8701151158148
+  },
+  {
+    "window": 32,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 2612.9476567616975
+  },
+  {
+    "window": 32,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 2706.8849260376933
+  },
+  {
+    "window": 32,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 2799.010485513367
+  },
+  {
+    "window": 32,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 3018.7080924948
+  },
+  {
+    "window": 32,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 2518.8701151158148
+  },
+  {
+    "window": 32,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 2670.280735420108
+  },
+  {
+    "window": 32,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 2793.6149452547133
+  },
+  {
+    "window": 32,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 2933.489918526093
+  },
+  {
+    "window": 32,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 3366.4577904585167
+  },
+  {
+    "window": 32,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 2518.8701151158148
+  },
+  {
+    "window": 32,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 2690.4327146309433
+  },
+  {
+    "window": 32,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 2861.995314146068
+  },
+  {
+    "window": 32,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 3033.557913661195
+  },
+  {
+    "window": 32,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3443.726660405604
+  },
+  {
+    "window": 33,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 6296.529334093885
+  },
+  {
+    "window": 33,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 6418.444272987681
+  },
+  {
+    "window": 33,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 6563.711608833758
+  },
+  {
+    "window": 33,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 6704.027416844196
+  },
+  {
+    "window": 33,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7010.210734157763
+  },
+  {
+    "window": 33,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 6296.529334093886
+  },
+  {
+    "window": 33,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 6393.786442377195
+  },
+  {
+    "window": 33,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 6505.881747583883
+  },
+  {
+    "window": 33,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 6607.360374585106
+  },
+  {
+    "window": 33,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 6849.456146136145
+  },
+  {
+    "window": 33,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 6296.529334093886
+  },
+  {
+    "window": 33,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 6388.632651291928
+  },
+  {
+    "window": 33,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 6458.623346648741
+  },
+  {
+    "window": 33,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 6543.490653833278
+  },
+  {
+    "window": 33,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 6708.371323866633
+  },
+  {
+    "window": 33,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 6296.529334093886
+  },
+  {
+    "window": 33,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 6388.8665385594895
+  },
+  {
+    "window": 33,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 6470.20058895451
+  },
+  {
+    "window": 33,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 6551.205577269893
+  },
+  {
+    "window": 33,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 6713.755824880213
+  },
+  {
+    "window": 34,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8766.323505126013
+  },
+  {
+    "window": 34,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8845.364258220205
+  },
+  {
+    "window": 34,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8944.307857100066
+  },
+  {
+    "window": 34,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 9077.931529021836
+  },
+  {
+    "window": 34,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 9378.376164078145
+  },
+  {
+    "window": 34,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8766.323505126013
+  },
+  {
+    "window": 34,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8831.023198749632
+  },
+  {
+    "window": 34,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8914.967251024942
+  },
+  {
+    "window": 34,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 9052.68267552775
+  },
+  {
+    "window": 34,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 9290.999469334922
+  },
+  {
+    "window": 34,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8766.323505126013
+  },
+  {
+    "window": 34,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8798.05010564845
+  },
+  {
+    "window": 34,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8815.001848591943
+  },
+  {
+    "window": 34,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8833.892045336828
+  },
+  {
+    "window": 34,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8906.103759137517
+  },
+  {
+    "window": 34,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8766.323505126013
+  },
+  {
+    "window": 34,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8787.84615225601
+  },
+  {
+    "window": 34,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8788.815781022437
+  },
+  {
+    "window": 34,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8793.366556373088
+  },
+  {
+    "window": 34,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8806.496326137894
+  },
+  {
+    "window": 35,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8289.711007937483
+  },
+  {
+    "window": 35,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8311.212726071568
+  },
+  {
+    "window": 35,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8338.355498955636
+  },
+  {
+    "window": 35,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 8333.895525869704
+  },
+  {
+    "window": 35,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 8341.186631026783
+  },
+  {
+    "window": 35,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8289.711007937483
+  },
+  {
+    "window": 35,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8306.938563921816
+  },
+  {
+    "window": 35,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8322.135697760834
+  },
+  {
+    "window": 35,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 8333.12759598588
+  },
+  {
+    "window": 35,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 8327.938090544369
+  },
+  {
+    "window": 35,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8289.711007937483
+  },
+  {
+    "window": 35,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8288.569126233393
+  },
+  {
+    "window": 35,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8285.91002167693
+  },
+  {
+    "window": 35,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8284.92907627758
+  },
+  {
+    "window": 35,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8283.058362305532
+  },
+  {
+    "window": 35,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8289.711007937483
+  },
+  {
+    "window": 35,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8284.743357799178
+  },
+  {
+    "window": 35,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8281.63029440649
+  },
+  {
+    "window": 35,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8277.773223216956
+  },
+  {
+    "window": 35,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8269.966002959307
+  },
+  {
+    "window": 36,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 9941.337963305657
+  },
+  {
+    "window": 36,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 9914.429364186191
+  },
+  {
+    "window": 36,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 9890.795877705514
+  },
+  {
+    "window": 36,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 9865.739044520238
+  },
+  {
+    "window": 36,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 9755.981137162238
+  },
+  {
+    "window": 36,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 9941.337963305657
+  },
+  {
+    "window": 36,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 9906.012883307296
+  },
+  {
+    "window": 36,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 9868.267248129267
+  },
+  {
+    "window": 36,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 9818.279644598413
+  },
+  {
+    "window": 36,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 9744.210611112814
+  },
+  {
+    "window": 36,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 9941.337963305657
+  },
+  {
+    "window": 36,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 9892.615127211124
+  },
+  {
+    "window": 36,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 9856.428622693442
+  },
+  {
+    "window": 36,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 9811.81578368237
+  },
+  {
+    "window": 36,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 9676.346936411992
+  },
+  {
+    "window": 36,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 9941.337963305657
+  },
+  {
+    "window": 36,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 9893.316563522629
+  },
+  {
+    "window": 36,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 9848.565301582199
+  },
+  {
+    "window": 36,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 9804.53920278154
+  },
+  {
+    "window": 36,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 9707.649848262483
+  },
+  {
+    "window": 37,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 7422.275563558057
+  },
+  {
+    "window": 37,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 7460.620539886117
+  },
+  {
+    "window": 37,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 7502.168499390547
+  },
+  {
+    "window": 37,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 7531.493338648423
+  },
+  {
+    "window": 37,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7417.180429275845
+  },
+  {
+    "window": 37,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 7422.275563558057
+  },
+  {
+    "window": 37,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 7459.704457701021
+  },
+  {
+    "window": 37,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 7481.861646156378
+  },
+  {
+    "window": 37,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 7495.926682528393
+  },
+  {
+    "window": 37,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7435.2502919655635
+  },
+  {
+    "window": 37,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 7422.275563558057
+  },
+  {
+    "window": 37,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 7412.353035543878
+  },
+  {
+    "window": 37,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 7403.484096807902
+  },
+  {
+    "window": 37,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 7395.20552456334
+  },
+  {
+    "window": 37,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 7405.484020548896
+  },
+  {
+    "window": 37,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 7422.275563558057
+  },
+  {
+    "window": 37,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 7421.668613105177
+  },
+  {
+    "window": 37,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 7404.315961668302
+  },
+  {
+    "window": 37,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 7393.263501789554
+  },
+  {
+    "window": 37,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 7373.89140803474
+  },
+  {
+    "window": 38,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 2428.6213896082563
+  },
+  {
+    "window": 38,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 2557.892726685246
+  },
+  {
+    "window": 38,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 2692.1129351929458
+  },
+  {
+    "window": 38,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 2791.0919194459893
+  },
+  {
+    "window": 38,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 3012.145805903553
+  },
+  {
+    "window": 38,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 2428.6213896082563
+  },
+  {
+    "window": 38,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 2564.0657547920346
+  },
+  {
+    "window": 38,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 2695.1818029595897
+  },
+  {
+    "window": 38,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 2831.5384448722325
+  },
+  {
+    "window": 38,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 3029.287069170001
+  },
+  {
+    "window": 38,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 2428.6213896082563
+  },
+  {
+    "window": 38,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 2557.441813748308
+  },
+  {
+    "window": 38,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 2687.981399006299
+  },
+  {
+    "window": 38,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 2812.558835877777
+  },
+  {
+    "window": 38,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 3053.160124703828
+  },
+  {
+    "window": 38,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 2428.6213896082563
+  },
+  {
+    "window": 38,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 2556.4626764297154
+  },
+  {
+    "window": 38,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 2679.306361728116
+  },
+  {
+    "window": 38,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 2778.9823804174994
+  },
+  {
+    "window": 38,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3103.1911882805325
+  },
+  {
+    "window": 39,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 3615.362565613263
+  },
+  {
+    "window": 39,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 3568.0325353767703
+  },
+  {
+    "window": 39,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 3520.702505140278
+  },
+  {
+    "window": 39,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 3484.258847238406
+  },
+  {
+    "window": 39,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 3255.492458437795
+  },
+  {
+    "window": 39,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 3615.362565613263
+  },
+  {
+    "window": 39,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 3572.204501263328
+  },
+  {
+    "window": 39,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 3529.0464369133924
+  },
+  {
+    "window": 39,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 3499.7381917719404
+  },
+  {
+    "window": 39,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 3251.740348632846
+  },
+  {
+    "window": 39,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 3615.362565613263
+  },
+  {
+    "window": 39,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 3559.4817570493915
+  },
+  {
+    "window": 39,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 3504.3190790422173
+  },
+  {
+    "window": 39,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 3436.7891165499495
+  },
+  {
+    "window": 39,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 3261.969297396118
+  },
+  {
+    "window": 39,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 3615.362565613263
+  },
+  {
+    "window": 39,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 3533.580681456418
+  },
+  {
+    "window": 39,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 3453.209980891591
+  },
+  {
+    "window": 39,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 3347.8648161636816
+  },
+  {
+    "window": 39,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3160.135278474836
+  },
+  {
+    "window": 40,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 4775.388137734215
+  },
+  {
+    "window": 40,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 4661.059273238479
+  },
+  {
+    "window": 40,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 4553.258932473362
+  },
+  {
+    "window": 40,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 4450.0342226200655
+  },
+  {
+    "window": 40,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 4240.969314984481
+  },
+  {
+    "window": 40,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 4775.388137734215
+  },
+  {
+    "window": 40,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 4661.991471129941
+  },
+  {
+    "window": 40,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 4547.539280873465
+  },
+  {
+    "window": 40,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 4455.380959121283
+  },
+  {
+    "window": 40,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 4205.162168195364
+  },
+  {
+    "window": 40,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 4775.388137734215
+  },
+  {
+    "window": 40,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 4645.602721868929
+  },
+  {
+    "window": 40,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 4515.817306003642
+  },
+  {
+    "window": 40,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 4383.321198056586
+  },
+  {
+    "window": 40,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 4024.7297369947614
+  },
+  {
+    "window": 40,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 4775.388137734215
+  },
+  {
+    "window": 40,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 4614.090280910803
+  },
+  {
+    "window": 40,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 4452.792424087389
+  },
+  {
+    "window": 40,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 4291.494567263977
+  },
+  {
+    "window": 40,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3997.950843129879
+  },
+  {
+    "window": 41,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 7587.35079921172
+  },
+  {
+    "window": 41,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 7657.65944710843
+  },
+  {
+    "window": 41,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 7720.68030834281
+  },
+  {
+    "window": 41,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 7828.893176075935
+  },
+  {
+    "window": 41,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7918.789437308902
+  },
+  {
+    "window": 41,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 7587.35079921172
+  },
+  {
+    "window": 41,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 7653.23419551594
+  },
+  {
+    "window": 41,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 7713.966078361108
+  },
+  {
+    "window": 41,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 7824.988276802039
+  },
+  {
+    "window": 41,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7908.775037425952
+  },
+  {
+    "window": 41,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 7587.35079921172
+  },
+  {
+    "window": 41,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 7647.919874690537
+  },
+  {
+    "window": 41,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 7718.947383742306
+  },
+  {
+    "window": 41,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 7787.399259427829
+  },
+  {
+    "window": 41,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 7937.054864061585
+  },
+  {
+    "window": 41,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 7587.35079921172
+  },
+  {
+    "window": 41,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 7634.919678867353
+  },
+  {
+    "window": 41,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 7689.47272272539
+  },
+  {
+    "window": 41,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 7738.1322143772195
+  },
+  {
+    "window": 41,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 7884.0494302409115
+  },
+  {
+    "window": 42,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 12661.685219663776
+  },
+  {
+    "window": 42,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 12774.986931946656
+  },
+  {
+    "window": 42,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 12872.532717430375
+  },
+  {
+    "window": 42,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 12956.7684299777
+  },
+  {
+    "window": 42,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 13100.035014076595
+  },
+  {
+    "window": 42,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 12661.685219663776
+  },
+  {
+    "window": 42,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 12774.982333453054
+  },
+  {
+    "window": 42,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 12865.050424171492
+  },
+  {
+    "window": 42,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 12943.233973168015
+  },
+  {
+    "window": 42,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 13101.394858606867
+  },
+  {
+    "window": 42,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 12661.685219663776
+  },
+  {
+    "window": 42,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 12772.081447242057
+  },
+  {
+    "window": 42,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 12877.39849046803
+  },
+  {
+    "window": 42,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 12966.11500574014
+  },
+  {
+    "window": 42,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 13083.802054114609
+  },
+  {
+    "window": 42,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 12661.685219663776
+  },
+  {
+    "window": 42,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 12754.819169704466
+  },
+  {
+    "window": 42,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 12840.95058428371
+  },
+  {
+    "window": 42,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 12927.50562399154
+  },
+  {
+    "window": 42,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 13072.728142552516
+  },
+  {
+    "window": 43,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 16089.089262503025
+  },
+  {
+    "window": 43,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 16121.170897845186
+  },
+  {
+    "window": 43,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 16153.754263245377
+  },
+  {
+    "window": 43,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 16151.201146158592
+  },
+  {
+    "window": 43,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 16193.393581757635
+  },
+  {
+    "window": 43,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 16089.089262503025
+  },
+  {
+    "window": 43,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 16117.627011697528
+  },
+  {
+    "window": 43,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 16139.372797612086
+  },
+  {
+    "window": 43,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 16173.327138911709
+  },
+  {
+    "window": 43,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 16207.344107038825
+  },
+  {
+    "window": 43,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 16089.089262503025
+  },
+  {
+    "window": 43,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 16111.348212683662
+  },
+  {
+    "window": 43,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 16153.062236407572
+  },
+  {
+    "window": 43,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 16187.61552971961
+  },
+  {
+    "window": 43,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 16242.681949018734
+  },
+  {
+    "window": 43,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 16089.089262503025
+  },
+  {
+    "window": 43,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 16111.133277261159
+  },
+  {
+    "window": 43,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 16143.700662230622
+  },
+  {
+    "window": 43,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 16175.246920326992
+  },
+  {
+    "window": 43,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 16191.840193347864
+  },
+  {
+    "window": 44,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 12615.125656716653
+  },
+  {
+    "window": 44,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 12544.2015286395
+  },
+  {
+    "window": 44,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 12567.192737783933
+  },
+  {
+    "window": 44,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 12610.715372959467
+  },
+  {
+    "window": 44,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 12514.34753031523
+  },
+  {
+    "window": 44,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 12615.125656716653
+  },
+  {
+    "window": 44,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 12555.312868605064
+  },
+  {
+    "window": 44,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 12631.196708871179
+  },
+  {
+    "window": 44,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 12676.22598823765
+  },
+  {
+    "window": 44,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 12603.989320680756
+  },
+  {
+    "window": 44,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 12615.125656716653
+  },
+  {
+    "window": 44,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 12582.034019761071
+  },
+  {
+    "window": 44,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 12585.168660332722
+  },
+  {
+    "window": 44,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 12584.682413922175
+  },
+  {
+    "window": 44,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 12604.029458581288
+  },
+  {
+    "window": 44,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 12615.125656716653
+  },
+  {
+    "window": 44,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 12553.061890469147
+  },
+  {
+    "window": 44,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 12563.255393314712
+  },
+  {
+    "window": 44,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 12631.123796415111
+  },
+  {
+    "window": 44,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 12719.409570003674
+  },
+  {
+    "window": 45,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 7408.757507122193
+  },
+  {
+    "window": 45,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 7490.450683144456
+  },
+  {
+    "window": 45,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 7527.5463373527045
+  },
+  {
+    "window": 45,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 7591.075975825073
+  },
+  {
+    "window": 45,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7642.278615191879
+  },
+  {
+    "window": 45,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 7408.757507122193
+  },
+  {
+    "window": 45,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 7423.487645274683
+  },
+  {
+    "window": 45,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 7507.2553807674
+  },
+  {
+    "window": 45,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 7584.798244604104
+  },
+  {
+    "window": 45,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7530.475766021199
+  },
+  {
+    "window": 45,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 7408.757507122193
+  },
+  {
+    "window": 45,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 7424.896549322524
+  },
+  {
+    "window": 45,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 7439.151442655093
+  },
+  {
+    "window": 45,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 7550.2844010228955
+  },
+  {
+    "window": 45,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 7596.280961127596
+  },
+  {
+    "window": 45,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 7408.757507122193
+  },
+  {
+    "window": 45,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 7352.114957144999
+  },
+  {
+    "window": 45,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 7311.483072868696
+  },
+  {
+    "window": 45,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 7313.107796766736
+  },
+  {
+    "window": 45,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 7288.92275386949
+  },
+  {
+    "window": 46,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 12401.10030832663
+  },
+  {
+    "window": 46,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 12485.934253159025
+  },
+  {
+    "window": 46,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 12558.621319563395
+  },
+  {
+    "window": 46,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 12611.322827255919
+  },
+  {
+    "window": 46,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 12579.83867453324
+  },
+  {
+    "window": 46,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 12401.10030832663
+  },
+  {
+    "window": 46,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 12471.622145908084
+  },
+  {
+    "window": 46,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 12546.094090186472
+  },
+  {
+    "window": 46,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 12580.280698006718
+  },
+  {
+    "window": 46,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 12507.54929453965
+  },
+  {
+    "window": 46,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 12401.10030832663
+  },
+  {
+    "window": 46,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 12433.717390005819
+  },
+  {
+    "window": 46,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 12468.017472881987
+  },
+  {
+    "window": 46,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 12492.300952953046
+  },
+  {
+    "window": 46,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 12495.797064873212
+  },
+  {
+    "window": 46,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 12401.10030832663
+  },
+  {
+    "window": 46,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 12410.65890190505
+  },
+  {
+    "window": 46,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 12420.420115581343
+  },
+  {
+    "window": 46,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 12429.556844405286
+  },
+  {
+    "window": 46,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 12454.45272817318
+  },
+  {
+    "window": 47,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 14972.092085315819
+  },
+  {
+    "window": 47,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 14739.953994320782
+  },
+  {
+    "window": 47,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 14304.456025000665
+  },
+  {
+    "window": 47,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 14032.316364842938
+  },
+  {
+    "window": 47,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 13294.504188228126
+  },
+  {
+    "window": 47,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 14972.092085315819
+  },
+  {
+    "window": 47,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 14719.840387379627
+  },
+  {
+    "window": 47,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 14373.997253008116
+  },
+  {
+    "window": 47,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 14079.05328279394
+  },
+  {
+    "window": 47,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 13221.399535370532
+  },
+  {
+    "window": 47,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 14972.092085315819
+  },
+  {
+    "window": 47,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 14762.61441580032
+  },
+  {
+    "window": 47,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 14514.432089650421
+  },
+  {
+    "window": 47,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 14175.03784493003
+  },
+  {
+    "window": 47,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 13299.658316890398
+  },
+  {
+    "window": 47,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 14972.092085315819
+  },
+  {
+    "window": 47,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 14724.73015950134
+  },
+  {
+    "window": 47,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 14461.710586599329
+  },
+  {
+    "window": 47,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 14129.816574941964
+  },
+  {
+    "window": 47,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 13444.323608048482
+  },
+  {
+    "window": 48,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8385.9136851424
+  },
+  {
+    "window": 48,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8115.636272157292
+  },
+  {
+    "window": 48,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 7727.342288089099
+  },
+  {
+    "window": 48,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 7308.481781120697
+  },
+  {
+    "window": 48,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 6581.797023993462
+  },
+  {
+    "window": 48,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8385.9136851424
+  },
+  {
+    "window": 48,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8076.035718301118
+  },
+  {
+    "window": 48,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 7739.881756043627
+  },
+  {
+    "window": 48,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 7323.444388941605
+  },
+  {
+    "window": 48,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 6657.706220708809
+  },
+  {
+    "window": 48,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8385.9136851424
+  },
+  {
+    "window": 48,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8174.593366599835
+  },
+  {
+    "window": 48,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 7955.536697084259
+  },
+  {
+    "window": 48,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 7538.573650325017
+  },
+  {
+    "window": 48,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 6444.928223686065
+  },
+  {
+    "window": 48,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8385.9136851424
+  },
+  {
+    "window": 48,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8178.136177797287
+  },
+  {
+    "window": 48,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 7923.420689550945
+  },
+  {
+    "window": 48,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 7589.831347674191
+  },
+  {
+    "window": 48,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 6598.2200766236965
+  },
+  {
+    "window": 49,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 3994.7882511659996
+  },
+  {
+    "window": 49,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 4056.1297681405213
+  },
+  {
+    "window": 49,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 4065.272369798923
+  },
+  {
+    "window": 49,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 4085.823629014031
+  },
+  {
+    "window": 49,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 4178.101323182438
+  },
+  {
+    "window": 49,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 3994.7882511659996
+  },
+  {
+    "window": 49,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 4047.56939591155
+  },
+  {
+    "window": 49,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 4088.42098801987
+  },
+  {
+    "window": 49,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 4094.3071814639643
+  },
+  {
+    "window": 49,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 4146.977020050621
+  },
+  {
+    "window": 49,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 3994.7882511659996
+  },
+  {
+    "window": 49,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 4042.7490928241446
+  },
+  {
+    "window": 49,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 4086.527178923179
+  },
+  {
+    "window": 49,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 4107.797908477154
+  },
+  {
+    "window": 49,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 4125.437064690419
+  },
+  {
+    "window": 49,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 3994.7882511659996
+  },
+  {
+    "window": 49,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 4023.0700830849755
+  },
+  {
+    "window": 49,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 4047.555446043389
+  },
+  {
+    "window": 49,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 4079.20253872169
+  },
+  {
+    "window": 49,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 4134.743643316646
+  },
+  {
+    "window": 50,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 3512.1297315989423
+  },
+  {
+    "window": 50,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 3538.025319342621
+  },
+  {
+    "window": 50,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 3459.3503376293743
+  },
+  {
+    "window": 50,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 3372.374083743385
+  },
+  {
+    "window": 50,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 3262.82019980807
+  },
+  {
+    "window": 50,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 3512.1297315989423
+  },
+  {
+    "window": 50,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 3542.7536855328967
+  },
+  {
+    "window": 50,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 3502.442085230394
+  },
+  {
+    "window": 50,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 3383.478074620049
+  },
+  {
+    "window": 50,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 3331.6816262745774
+  },
+  {
+    "window": 50,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 3512.1297315989423
+  },
+  {
+    "window": 50,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 3560.7285863957727
+  },
+  {
+    "window": 50,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 3516.66627330303
+  },
+  {
+    "window": 50,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 3400.122558991714
+  },
+  {
+    "window": 50,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 3256.8780397517858
+  },
+  {
+    "window": 50,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 3512.1297315989423
+  },
+  {
+    "window": 50,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 3545.9950283370526
+  },
+  {
+    "window": 50,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 3507.984214327508
+  },
+  {
+    "window": 50,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 3353.4036187956485
+  },
+  {
+    "window": 50,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3198.129397231646
+  },
+  {
+    "window": 51,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 3355.6180422986827
+  },
+  {
+    "window": 51,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 3568.394288485007
+  },
+  {
+    "window": 51,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 3813.667358214299
+  },
+  {
+    "window": 51,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 4035.2944769012784
+  },
+  {
+    "window": 51,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 4174.975585309912
+  },
+  {
+    "window": 51,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 3355.6180422986827
+  },
+  {
+    "window": 51,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 3593.704106452075
+  },
+  {
+    "window": 51,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 3839.8073749992827
+  },
+  {
+    "window": 51,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 4067.7055863631003
+  },
+  {
+    "window": 51,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 4257.6135350025725
+  },
+  {
+    "window": 51,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 3355.6180422986827
+  },
+  {
+    "window": 51,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 3628.2145827445574
+  },
+  {
+    "window": 51,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 3871.7619158124144
+  },
+  {
+    "window": 51,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 4170.994666718341
+  },
+  {
+    "window": 51,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 4400.970352706039
+  },
+  {
+    "window": 51,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 3355.6180422986827
+  },
+  {
+    "window": 51,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 3619.5318612165097
+  },
+  {
+    "window": 51,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 3865.061098933481
+  },
+  {
+    "window": 51,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 4105.16339721475
+  },
+  {
+    "window": 51,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 4286.751300230302
+  },
+  {
+    "window": 52,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 3863.955006306507
+  },
+  {
+    "window": 52,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 3929.7790278546545
+  },
+  {
+    "window": 52,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 4037.3644279936248
+  },
+  {
+    "window": 52,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 4177.411007837672
+  },
+  {
+    "window": 52,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 4465.179181802371
+  },
+  {
+    "window": 52,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 3863.955006306507
+  },
+  {
+    "window": 52,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 3971.0313722747446
+  },
+  {
+    "window": 52,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 4054.377291830189
+  },
+  {
+    "window": 52,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 4200.51437855977
+  },
+  {
+    "window": 52,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 4588.9586985741
+  },
+  {
+    "window": 52,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 3863.955006306507
+  },
+  {
+    "window": 52,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 4032.443881767153
+  },
+  {
+    "window": 52,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 4168.590249628139
+  },
+  {
+    "window": 52,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 4274.924042613104
+  },
+  {
+    "window": 52,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 4625.111571985024
+  },
+  {
+    "window": 52,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 3863.955006306507
+  },
+  {
+    "window": 52,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 4010.98405763639
+  },
+  {
+    "window": 52,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 4136.797033979493
+  },
+  {
+    "window": 52,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 4254.47274464864
+  },
+  {
+    "window": 52,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 4638.0496715982445
+  },
+  {
+    "window": 53,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 5122.438177484643
+  },
+  {
+    "window": 53,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 5067.546264033494
+  },
+  {
+    "window": 53,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 4968.569324526745
+  },
+  {
+    "window": 53,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 4884.137532571145
+  },
+  {
+    "window": 53,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 4738.556114880663
+  },
+  {
+    "window": 53,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 5122.438177484643
+  },
+  {
+    "window": 53,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 5073.22428600676
+  },
+  {
+    "window": 53,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 4978.163486616161
+  },
+  {
+    "window": 53,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 4892.610763774187
+  },
+  {
+    "window": 53,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 4724.9497588693075
+  },
+  {
+    "window": 53,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 5122.438177484643
+  },
+  {
+    "window": 53,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 5070.776737075814
+  },
+  {
+    "window": 53,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 4988.111596195456
+  },
+  {
+    "window": 53,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 4904.220568938362
+  },
+  {
+    "window": 53,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 4737.132806061043
+  },
+  {
+    "window": 53,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 5122.438177484643
+  },
+  {
+    "window": 53,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 5076.9185183041145
+  },
+  {
+    "window": 53,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 4976.850802647445
+  },
+  {
+    "window": 53,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 4896.456269159924
+  },
+  {
+    "window": 53,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 4767.358930376608
+  },
+  {
+    "window": 54,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 2756.1943608723404
+  },
+  {
+    "window": 54,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 2812.4711148144097
+  },
+  {
+    "window": 54,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 2931.775316043312
+  },
+  {
+    "window": 54,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 2990.5197387048925
+  },
+  {
+    "window": 54,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 3121.9554594486517
+  },
+  {
+    "window": 54,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 2756.1943608723404
+  },
+  {
+    "window": 54,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 2814.3694419646686
+  },
+  {
+    "window": 54,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 2940.916173435571
+  },
+  {
+    "window": 54,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 3013.0542115419485
+  },
+  {
+    "window": 54,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 3125.321481504442
+  },
+  {
+    "window": 54,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 2756.1943608723404
+  },
+  {
+    "window": 54,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 2808.1465382755096
+  },
+  {
+    "window": 54,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 2912.80880652497
+  },
+  {
+    "window": 54,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 2955.790777901213
+  },
+  {
+    "window": 54,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 3098.796737153777
+  },
+  {
+    "window": 54,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 2756.1943608723404
+  },
+  {
+    "window": 54,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 2815.100288861224
+  },
+  {
+    "window": 54,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 2888.092804607698
+  },
+  {
+    "window": 54,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 2984.690424252901
+  },
+  {
+    "window": 54,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 3108.4490916406667
+  },
+  {
+    "window": 55,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 1980.8165302522455
+  },
+  {
+    "window": 55,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 2094.78786529917
+  },
+  {
+    "window": 55,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 2198.769655811263
+  },
+  {
+    "window": 55,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 2275.8637337134874
+  },
+  {
+    "window": 55,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 2447.8540729670767
+  },
+  {
+    "window": 55,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 1980.8165302522455
+  },
+  {
+    "window": 55,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 2104.259180178923
+  },
+  {
+    "window": 55,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 2188.4540370845107
+  },
+  {
+    "window": 55,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 2275.4443203846276
+  },
+  {
+    "window": 55,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 2445.767756893127
+  },
+  {
+    "window": 55,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 1980.8165302522455
+  },
+  {
+    "window": 55,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 2108.0968681995355
+  },
+  {
+    "window": 55,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 2226.273007097103
+  },
+  {
+    "window": 55,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 2296.6048401471007
+  },
+  {
+    "window": 55,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 2445.5536123943552
+  },
+  {
+    "window": 55,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 1980.8165302522455
+  },
+  {
+    "window": 55,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 2093.9422537905402
+  },
+  {
+    "window": 55,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 2220.0534755702784
+  },
+  {
+    "window": 55,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 2347.017829109496
+  },
+  {
+    "window": 55,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 2565.494613138917
+  },
+  {
+    "window": 56,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8907.804785962859
+  },
+  {
+    "window": 56,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8938.472603803577
+  },
+  {
+    "window": 56,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8929.200382461024
+  },
+  {
+    "window": 56,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 8844.67217814002
+  },
+  {
+    "window": 56,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 8732.34496268185
+  },
+  {
+    "window": 56,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8907.804785962859
+  },
+  {
+    "window": 56,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8937.24868712623
+  },
+  {
+    "window": 56,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8912.42237063027
+  },
+  {
+    "window": 56,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 8845.392716083563
+  },
+  {
+    "window": 56,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 8719.724417282201
+  },
+  {
+    "window": 56,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8907.804785962859
+  },
+  {
+    "window": 56,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8927.095836132577
+  },
+  {
+    "window": 56,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8870.770189494571
+  },
+  {
+    "window": 56,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8799.23785572237
+  },
+  {
+    "window": 56,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8747.66184259433
+  },
+  {
+    "window": 56,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8907.804785962859
+  },
+  {
+    "window": 56,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8875.76549316136
+  },
+  {
+    "window": 56,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8850.942868566479
+  },
+  {
+    "window": 56,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8756.457721911205
+  },
+  {
+    "window": 56,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8697.93541124486
+  },
+  {
+    "window": 57,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 10833.603137930073
+  },
+  {
+    "window": 57,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 10888.210445575467
+  },
+  {
+    "window": 57,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 10908.54584683618
+  },
+  {
+    "window": 57,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 10868.935140333422
+  },
+  {
+    "window": 57,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 10579.582283108357
+  },
+  {
+    "window": 57,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 10833.603137930073
+  },
+  {
+    "window": 57,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 10955.7080530184
+  },
+  {
+    "window": 57,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 10966.03213260815
+  },
+  {
+    "window": 57,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 11077.134388773266
+  },
+  {
+    "window": 57,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 10815.066272357031
+  },
+  {
+    "window": 57,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 10833.603137930073
+  },
+  {
+    "window": 57,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 10934.554112170423
+  },
+  {
+    "window": 57,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 10976.243978383094
+  },
+  {
+    "window": 57,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 11122.289970348065
+  },
+  {
+    "window": 57,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 10984.131952375665
+  },
+  {
+    "window": 57,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 10833.603137930073
+  },
+  {
+    "window": 57,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 10944.431783779315
+  },
+  {
+    "window": 57,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 10981.347699971247
+  },
+  {
+    "window": 57,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 11092.853947270833
+  },
+  {
+    "window": 57,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 10985.104581508018
+  },
+  {
+    "window": 58,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8136.215634668015
+  },
+  {
+    "window": 58,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8334.745009845155
+  },
+  {
+    "window": 58,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8369.102439100021
+  },
+  {
+    "window": 58,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 8404.17695728912
+  },
+  {
+    "window": 58,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 8703.43739146513
+  },
+  {
+    "window": 58,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8136.215634668015
+  },
+  {
+    "window": 58,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8338.237827254461
+  },
+  {
+    "window": 58,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8369.535958157177
+  },
+  {
+    "window": 58,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 8397.607849870194
+  },
+  {
+    "window": 58,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 8717.525509818859
+  },
+  {
+    "window": 58,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8136.215634668015
+  },
+  {
+    "window": 58,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8371.352364228107
+  },
+  {
+    "window": 58,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8462.152783412668
+  },
+  {
+    "window": 58,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8447.628796607845
+  },
+  {
+    "window": 58,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8858.888487986487
+  },
+  {
+    "window": 58,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8136.215634668015
+  },
+  {
+    "window": 58,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8396.285676122021
+  },
+  {
+    "window": 58,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8400.288661782828
+  },
+  {
+    "window": 58,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8428.434458152238
+  },
+  {
+    "window": 58,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8998.262087388779
+  },
+  {
+    "window": 59,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 9570.856968629452
+  },
+  {
+    "window": 59,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 9487.87611965679
+  },
+  {
+    "window": 59,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 9420.445100993085
+  },
+  {
+    "window": 59,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 9344.317799464112
+  },
+  {
+    "window": 59,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 9139.655835718942
+  },
+  {
+    "window": 59,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 9570.856968629452
+  },
+  {
+    "window": 59,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 9483.492531291544
+  },
+  {
+    "window": 59,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 9418.101049130022
+  },
+  {
+    "window": 59,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 9336.944708391176
+  },
+  {
+    "window": 59,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 9136.854900172582
+  },
+  {
+    "window": 59,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 9570.856968629452
+  },
+  {
+    "window": 59,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 9479.287422439147
+  },
+  {
+    "window": 59,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 9392.988876131772
+  },
+  {
+    "window": 59,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 9291.9082589139
+  },
+  {
+    "window": 59,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 9123.833107319773
+  },
+  {
+    "window": 59,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 9570.856968629452
+  },
+  {
+    "window": 59,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 9481.843830387406
+  },
+  {
+    "window": 59,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 9385.986775727022
+  },
+  {
+    "window": 59,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 9292.864546315293
+  },
+  {
+    "window": 59,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 9090.33652597635
+  },
+  {
+    "window": 60,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 6554.0662726972005
+  },
+  {
+    "window": 60,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 6323.959062757375
+  },
+  {
+    "window": 60,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 6122.138163130334
+  },
+  {
+    "window": 60,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 5897.75235967407
+  },
+  {
+    "window": 60,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 5635.927302801723
+  },
+  {
+    "window": 60,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 6554.0662726972005
+  },
+  {
+    "window": 60,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 6328.6292190656695
+  },
+  {
+    "window": 60,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 6126.504817278053
+  },
+  {
+    "window": 60,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 5878.785948862214
+  },
+  {
+    "window": 60,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 5616.899172928367
+  },
+  {
+    "window": 60,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 6554.0662726972005
+  },
+  {
+    "window": 60,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 6310.403421935206
+  },
+  {
+    "window": 60,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 6098.935911124004
+  },
+  {
+    "window": 60,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 5884.935825590523
+  },
+  {
+    "window": 60,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 5432.552405063856
+  },
+  {
+    "window": 60,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 6554.0662726972005
+  },
+  {
+    "window": 60,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 6327.989399992737
+  },
+  {
+    "window": 60,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 6082.4813574303125
+  },
+  {
+    "window": 60,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 5828.878857416311
+  },
+  {
+    "window": 60,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 5335.212335042939
+  },
+  {
+    "window": 61,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 2417.7754461793097
+  },
+  {
+    "window": 61,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 2279.4667518175047
+  },
+  {
+    "window": 61,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 2145.8513361755695
+  },
+  {
+    "window": 61,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 2070.719820222083
+  },
+  {
+    "window": 61,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 1567.3323859055408
+  },
+  {
+    "window": 61,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 2417.7754461793097
+  },
+  {
+    "window": 61,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 2286.301071339396
+  },
+  {
+    "window": 61,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 2143.8446117984145
+  },
+  {
+    "window": 61,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 2078.342117184113
+  },
+  {
+    "window": 61,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 1567.2809468901353
+  },
+  {
+    "window": 61,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 2417.7754461793097
+  },
+  {
+    "window": 61,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 2313.7654021361823
+  },
+  {
+    "window": 61,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 2222.1842665985005
+  },
+  {
+    "window": 61,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 2096.2747108344424
+  },
+  {
+    "window": 61,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 1634.3037270453988
+  },
+  {
+    "window": 61,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 2417.7754461793097
+  },
+  {
+    "window": 61,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 2329.592048818078
+  },
+  {
+    "window": 61,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 2237.117618092023
+  },
+  {
+    "window": 61,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 2097.6569537529595
+  },
+  {
+    "window": 61,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 1708.3367523193765
+  },
+  {
+    "window": 62,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8181.110299450445
+  },
+  {
+    "window": 62,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8191.428337351834
+  },
+  {
+    "window": 62,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8206.882688211164
+  },
+  {
+    "window": 62,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 8311.15375679786
+  },
+  {
+    "window": 62,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 8606.187079949483
+  },
+  {
+    "window": 62,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8181.110299450445
+  },
+  {
+    "window": 62,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8188.828641697905
+  },
+  {
+    "window": 62,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8209.160558041342
+  },
+  {
+    "window": 62,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 8270.221287042386
+  },
+  {
+    "window": 62,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 8542.340933774118
+  },
+  {
+    "window": 62,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8181.110299450445
+  },
+  {
+    "window": 62,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8179.103637270475
+  },
+  {
+    "window": 62,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8180.048797221857
+  },
+  {
+    "window": 62,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8232.872204537462
+  },
+  {
+    "window": 62,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8327.885127874044
+  },
+  {
+    "window": 62,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8181.110299450445
+  },
+  {
+    "window": 62,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8185.15950630037
+  },
+  {
+    "window": 62,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8196.028315548612
+  },
+  {
+    "window": 62,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8210.201159090375
+  },
+  {
+    "window": 62,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8218.6631529308
+  },
+  {
+    "window": 63,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 9321.003082302028
+  },
+  {
+    "window": 63,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 9283.008421129374
+  },
+  {
+    "window": 63,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 9250.260105472153
+  },
+  {
+    "window": 63,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 9218.571675566956
+  },
+  {
+    "window": 63,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 9465.596446775515
+  },
+  {
+    "window": 63,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 9321.003082302028
+  },
+  {
+    "window": 63,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 9282.589795319283
+  },
+  {
+    "window": 63,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 9262.346627621399
+  },
+  {
+    "window": 63,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 9268.445831080977
+  },
+  {
+    "window": 63,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 9405.667551984086
+  },
+  {
+    "window": 63,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 9321.003082302028
+  },
+  {
+    "window": 63,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 9274.660328845803
+  },
+  {
+    "window": 63,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 9252.8133128764
+  },
+  {
+    "window": 63,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 9257.280427159129
+  },
+  {
+    "window": 63,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 9427.294837022726
+  },
+  {
+    "window": 63,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 9321.003082302028
+  },
+  {
+    "window": 63,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 9289.920851028304
+  },
+  {
+    "window": 63,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 9253.150938872013
+  },
+  {
+    "window": 63,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 9258.106944312323
+  },
+  {
+    "window": 63,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 9293.714931553253
+  },
+  {
+    "window": 64,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 6042.807395581804
+  },
+  {
+    "window": 64,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 5973.058579383722
+  },
+  {
+    "window": 64,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 5889.535365628566
+  },
+  {
+    "window": 64,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 5802.585022917207
+  },
+  {
+    "window": 64,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 5795.078376495356
+  },
+  {
+    "window": 64,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 6042.807395581804
+  },
+  {
+    "window": 64,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 5974.76679430396
+  },
+  {
+    "window": 64,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 5900.650995635181
+  },
+  {
+    "window": 64,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 5832.935890030416
+  },
+  {
+    "window": 64,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 5801.143239439433
+  },
+  {
+    "window": 64,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 6042.807395581804
+  },
+  {
+    "window": 64,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 5991.30493772554
+  },
+  {
+    "window": 64,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 5936.837218098202
+  },
+  {
+    "window": 64,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 5879.878153548791
+  },
+  {
+    "window": 64,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 5808.933768080178
+  },
+  {
+    "window": 64,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 6042.807395581804
+  },
+  {
+    "window": 64,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 5998.557055390433
+  },
+  {
+    "window": 64,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 5951.045536565804
+  },
+  {
+    "window": 64,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 5904.725789938074
+  },
+  {
+    "window": 64,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 5827.621834181725
+  },
+  {
+    "window": 65,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8936.098578841526
+  },
+  {
+    "window": 65,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8920.659060599028
+  },
+  {
+    "window": 65,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8901.62463771479
+  },
+  {
+    "window": 65,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 8883.768391441317
+  },
+  {
+    "window": 65,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 8813.223114490145
+  },
+  {
+    "window": 65,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8936.098578841526
+  },
+  {
+    "window": 65,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8921.34211934833
+  },
+  {
+    "window": 65,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8906.117021190907
+  },
+  {
+    "window": 65,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 8889.273286111496
+  },
+  {
+    "window": 65,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 8813.185106251987
+  },
+  {
+    "window": 65,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8936.098578841526
+  },
+  {
+    "window": 65,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8916.581085806978
+  },
+  {
+    "window": 65,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8899.247738103695
+  },
+  {
+    "window": 65,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8879.396176566166
+  },
+  {
+    "window": 65,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8815.724607068416
+  },
+  {
+    "window": 65,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8936.098578841526
+  },
+  {
+    "window": 65,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8915.469867016642
+  },
+  {
+    "window": 65,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8898.861400558118
+  },
+  {
+    "window": 65,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8881.717507923353
+  },
+  {
+    "window": 65,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8819.80119231555
+  },
+  {
+    "window": 66,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8708.591613527142
+  },
+  {
+    "window": 66,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8767.996802320422
+  },
+  {
+    "window": 66,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8818.904757671018
+  },
+  {
+    "window": 66,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 8875.944262757948
+  },
+  {
+    "window": 66,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 8910.488126171855
+  },
+  {
+    "window": 66,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8708.591613527142
+  },
+  {
+    "window": 66,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8775.241461742682
+  },
+  {
+    "window": 66,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8828.367700895904
+  },
+  {
+    "window": 66,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 8876.302029056866
+  },
+  {
+    "window": 66,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 8948.081527351429
+  },
+  {
+    "window": 66,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8708.591613527142
+  },
+  {
+    "window": 66,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8782.470653731241
+  },
+  {
+    "window": 66,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8861.42149422886
+  },
+  {
+    "window": 66,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8930.618233448742
+  },
+  {
+    "window": 66,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8945.033849326175
+  },
+  {
+    "window": 66,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8708.591613527142
+  },
+  {
+    "window": 66,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8767.247341250408
+  },
+  {
+    "window": 66,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8832.117271499163
+  },
+  {
+    "window": 66,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8899.058704267187
+  },
+  {
+    "window": 66,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 9044.78332654587
+  },
+  {
+    "window": 67,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 8093.516616242234
+  },
+  {
+    "window": 67,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 8171.5540197986875
+  },
+  {
+    "window": 67,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 8267.153605946714
+  },
+  {
+    "window": 67,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 8340.112709123434
+  },
+  {
+    "window": 67,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 8491.427283562756
+  },
+  {
+    "window": 67,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 8093.516616242234
+  },
+  {
+    "window": 67,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 8171.838510172009
+  },
+  {
+    "window": 67,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 8265.621170802595
+  },
+  {
+    "window": 67,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 8316.526916269086
+  },
+  {
+    "window": 67,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 8493.684660447288
+  },
+  {
+    "window": 67,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 8093.516616242234
+  },
+  {
+    "window": 67,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 8190.432735228966
+  },
+  {
+    "window": 67,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 8297.183053036264
+  },
+  {
+    "window": 67,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 8309.772411582764
+  },
+  {
+    "window": 67,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 8494.077842416791
+  },
+  {
+    "window": 67,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 8093.516616242234
+  },
+  {
+    "window": 67,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 8178.817964382039
+  },
+  {
+    "window": 67,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 8277.659960734025
+  },
+  {
+    "window": 67,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 8358.594355127625
+  },
+  {
+    "window": 67,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 8504.871002498361
+  },
+  {
+    "window": 68,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 7693.350002637989
+  },
+  {
+    "window": 68,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 7629.560962769101
+  },
+  {
+    "window": 68,
+    "hyperparameter": 0,
+    "CVaR": 2,
+    "objective_value": 7545.585407385621
+  },
+  {
+    "window": 68,
+    "hyperparameter": 0,
+    "CVaR": 3,
+    "objective_value": 7829.399525039542
+  },
+  {
+    "window": 68,
+    "hyperparameter": 0,
+    "CVaR": 4,
+    "objective_value": 7602.534080693486
+  },
+  {
+    "window": 68,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 7693.350002637989
+  },
+  {
+    "window": 68,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 7676.991513155022
+  },
+  {
+    "window": 68,
+    "hyperparameter": 1,
+    "CVaR": 2,
+    "objective_value": 7570.542477446082
+  },
+  {
+    "window": 68,
+    "hyperparameter": 1,
+    "CVaR": 3,
+    "objective_value": 7856.410457580261
+  },
+  {
+    "window": 68,
+    "hyperparameter": 1,
+    "CVaR": 4,
+    "objective_value": 7565.765601933468
+  },
+  {
+    "window": 68,
+    "hyperparameter": 2,
+    "CVaR": 0,
+    "objective_value": 7693.350002637989
+  },
+  {
+    "window": 68,
+    "hyperparameter": 2,
+    "CVaR": 1,
+    "objective_value": 7713.0147361099425
+  },
+  {
+    "window": 68,
+    "hyperparameter": 2,
+    "CVaR": 2,
+    "objective_value": 7723.583490841991
+  },
+  {
+    "window": 68,
+    "hyperparameter": 2,
+    "CVaR": 3,
+    "objective_value": 7723.2044653934845
+  },
+  {
+    "window": 68,
+    "hyperparameter": 2,
+    "CVaR": 4,
+    "objective_value": 7652.297249707127
+  },
+  {
+    "window": 68,
+    "hyperparameter": 3,
+    "CVaR": 0,
+    "objective_value": 7693.350002637989
+  },
+  {
+    "window": 68,
+    "hyperparameter": 3,
+    "CVaR": 1,
+    "objective_value": 7728.723979191668
+  },
+  {
+    "window": 68,
+    "hyperparameter": 3,
+    "CVaR": 2,
+    "objective_value": 7715.998615319198
+  },
+  {
+    "window": 68,
+    "hyperparameter": 3,
+    "CVaR": 3,
+    "objective_value": 7705.850810437772
+  },
+  {
+    "window": 68,
+    "hyperparameter": 3,
+    "CVaR": 4,
+    "objective_value": 7648.380190148679
+  }
+]

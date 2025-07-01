@@ -1,0 +1,170 @@
+[
+  {
+    "window": 0,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 6307.032844078841
+  },
+  {
+    "window": 0,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 6307.032844078841
+  },
+  {
+    "window": 0,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 6886.394760705134
+  },
+  {
+    "window": 0,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 6886.394760705134
+  },
+  {
+    "window": 1,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 1076.409032570979
+  },
+  {
+    "window": 1,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 1076.409032570979
+  },
+  {
+    "window": 1,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 1872.2742959671436
+  },
+  {
+    "window": 1,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 1872.2742959671436
+  },
+  {
+    "window": 2,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 327.0954439468925
+  },
+  {
+    "window": 2,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 327.0954439468925
+  },
+  {
+    "window": 2,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 285.13910601377654
+  },
+  {
+    "window": 2,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 285.13910601377654
+  },
+  {
+    "window": 3,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 14009.92495226629
+  },
+  {
+    "window": 3,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 14009.92495226629
+  },
+  {
+    "window": 3,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 10126.92805848581
+  },
+  {
+    "window": 3,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 10126.92805848581
+  },
+  {
+    "window": 4,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 6490.786793705449
+  },
+  {
+    "window": 4,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 6490.786793705449
+  },
+  {
+    "window": 4,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 6552.493209831549
+  },
+  {
+    "window": 4,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 6552.493209831549
+  },
+  {
+    "window": 5,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 7704.76603455341
+  },
+  {
+    "window": 5,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 7704.76603455341
+  },
+  {
+    "window": 5,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": -588.1202430704857
+  },
+  {
+    "window": 5,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": -588.1202430704857
+  },
+  {
+    "window": 6,
+    "hyperparameter": 0,
+    "CVaR": 0,
+    "objective_value": 1252.1507579580357
+  },
+  {
+    "window": 6,
+    "hyperparameter": 0,
+    "CVaR": 1,
+    "objective_value": 1252.1507579580357
+  },
+  {
+    "window": 6,
+    "hyperparameter": 1,
+    "CVaR": 0,
+    "objective_value": 281.8916666666654
+  },
+  {
+    "window": 6,
+    "hyperparameter": 1,
+    "CVaR": 1,
+    "objective_value": 281.8916666666654
+  }
+]
